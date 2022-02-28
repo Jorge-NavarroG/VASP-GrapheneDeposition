@@ -2,11 +2,11 @@
 """
 Created on Fri Sep  3 08:55:16 2021
 
-@author: 216366
+@author: Jorge Navarro at CEITEC
 """
 import os
 import numpy as np
-name='in_2021_32_(279885new).xyz'
+name='in_2021_32_(279885new).xyz' #file containing the molecule information in format .xyz
 
 def center(name,out_name,R):
     
